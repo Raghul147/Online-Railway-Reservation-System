@@ -38,6 +38,15 @@ OR follow gitbash commands
 
 **Server:** MySQL ,PHP
 
+## Features
+
+- Easy Searching of Available Trains
+- Ticket Booking
+- Reservation and ticketing
+- Customer profile management
+- Multiple payment option
+- E-Ticket 
+- Ticket cancellation 
 
 ## Screenshots
 
@@ -52,17 +61,6 @@ OR follow gitbash commands
 ![Preview Img](images/9.png)
 ![Preview Img](images/10.png)
 
-
-
-## Features
-
-- Easy Searching of Available Trains
-- Ticket Booking
-- Reservation and ticketing
-- Customer profile management
-- Multiple payment option
-- E-Ticket 
-- Ticket cancellation 
 
 
 
