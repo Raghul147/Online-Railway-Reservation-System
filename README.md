@@ -41,16 +41,16 @@ OR follow gitbash commands
 
 ## Screenshots
 
-![Preview Img](images/1.PNG)
-![Preview Img](images/2.PNG)
-![Preview Img](images/3.PNG)
-![Preview Img](images/4.PNG)
-![Preview Img](images/5.PNG)
-![Preview Img](images/6.PNG)
-![Preview Img](images/7.PNG)
-![Preview Img](images/8.PNG)
-![Preview Img](images/9.PNG)
-![Preview Img](images/10.PNG)
+![Preview Img](images/1.png)
+![Preview Img](images/2.png)
+![Preview Img](images/3.pmg)
+![Preview Img](images/4.png)
+![Preview Img](images/5.png)
+![Preview Img](images/6.png)
+![Preview Img](images/7.png)
+![Preview Img](images/8.png)
+![Preview Img](images/9.png)
+![Preview Img](images/10.png)
 
 
 
